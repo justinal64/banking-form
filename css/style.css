@@ -1,0 +1,43 @@
+html {
+	background-color: black;
+}
+
+body {
+	width: 80%;
+	margin: 0 auto;
+	color: white;
+	background-color: grey;
+}
+
+.content {
+	width: 50%;
+	background-color: blue;
+	margin: 0 auto;
+	padding: .5em;
+}
+
+.information {
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+input {
+	color: black;
+}
+
+h3 {
+	font-size: 30px;
+	margin: .2em 0;
+}
+
+.conditions {
+	margin: .5em 0 .2em 0;
+}
+
+textarea {
+	width: 200px;
+	height: 100px;
+}
+
+
